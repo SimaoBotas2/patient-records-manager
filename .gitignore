@@ -1,0 +1,11 @@
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+.idea/
+.vscode/
+.DS_Store
+# runtime data (may contain personal data)
+Doentes.txt
+Registos.txt
